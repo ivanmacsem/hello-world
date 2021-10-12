@@ -1,2 +1,4 @@
 # hello-world
-Test things
+Hello!
+
+This is a repository for trying things out
